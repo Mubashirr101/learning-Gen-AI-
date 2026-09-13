@@ -1,0 +1,12 @@
+node_modules/
+venv/
+__pycache__/
+ 
+# Environment/secrets
+.env
+*.key
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
